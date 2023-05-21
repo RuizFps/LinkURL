@@ -1,0 +1,141 @@
+2023-05-22 02:01:28 Notice: Notice (8): Undefined variable: popularLinks in [/home2/linkli25/public_html/src/Template/Member/Users/dashboard.ctp, line 397]
+
+
+2023-05-22 02:01:36 Notice: Notice (8): Undefined variable: popularLinks in [/home2/linkli25/public_html/src/Template/Member/Users/dashboard.ctp, line 397]
+
+
+2023-05-21 20:31:38 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:38 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:38 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:38 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:42 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:42 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:48 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:48 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:52 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:31:52 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-22 02:02:12 Notice: Notice (8): Undefined variable: popularLinks in [/home2/linkli25/public_html/src/Template/Member/Users/dashboard.ctp, line 397]
+
+
+2023-05-21 20:32:13 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:13 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:16 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:16 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:30 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:30 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:34 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:34 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:42 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:42 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:52 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:32:52 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-22 02:11:51 Notice: Notice (8): Undefined variable: popularLinks in [/home2/linkli25/public_html/src/Template/Member/Users/dashboard.ctp, line 397]
+
+
+2023-05-21 20:41:53 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:41:53 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:41:56 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:41:56 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:42:04 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:42:04 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:42:14 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:42:14 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:42:16 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:42:16 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:42:19 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:42:19 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-22 02:12:24 Notice: Notice (8): Undefined variable: popularLinks in [/home2/linkli25/public_html/src/Template/Member/Users/dashboard.ctp, line 397]
+
+
+2023-05-22 02:13:03 Notice: Notice (8): Undefined variable: popularLinks in [/home2/linkli25/public_html/src/Template/Member/Users/dashboard.ctp, line 397]
+
+
+2023-05-21 20:51:32 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:51:32 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-22 02:21:34 Notice: Notice (8): Undefined variable: popularLinks in [/home2/linkli25/public_html/src/Template/Member/Users/dashboard.ctp, line 397]
+
+
+2023-05-21 20:51:36 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:51:36 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:51:37 Notice: Notice (8): Undefined variable: logged_user in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
+2023-05-21 20:51:37 Notice: Notice (8): Trying to get property 'username' of non-object in [/home2/linkli25/public_html/src/Template/Layout/admin.ctp, line 117]
+
+
